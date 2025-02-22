@@ -1,2 +1,2 @@
 # BoilermakeXII_
-BoilermakeXII Spring 2025 Rpository.
+BoilermakeXII Spring 2025 Repository.
